@@ -1,0 +1,6 @@
+@Amex_Test.Server_HostAddress = http://localhost:5238
+
+GET {{Amex_Test.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
